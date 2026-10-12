@@ -6,4 +6,4 @@ wordcloud
 pandas
 emoji
 streamlit
-emojistreamlit
+
